@@ -1,0 +1,142 @@
+{
+  "leek-fund.stocks": [
+    "nf_AG2512",
+    "sh601198",
+    "sh600887",
+    "sh601398",
+    "sh601939",
+    "sh601857",
+    "usr_ixic",
+    "usr_dji",
+    "usr_inx",
+    "hf_OIL",
+    "hf_CHA50CFD",
+    "hk01810",
+    "hk01398",
+    "sh000001",
+    "sh518800",
+    "sh510330",
+    "sz161226",
+    "nf_AG2604",
+    "nf_AU2512",
+    "nf_AU2608"
+  ],
+  "leek-fund.stockPrice": {
+    "sh601398": {
+      "name": "工商银行",
+      "amount": 23600,
+      "price": "7.54",
+      "unitPrice": 7.283,
+      "earnings": 0
+    },
+    "sh600887": {
+      "name": "伊利股份",
+      "amount": 4200,
+      "price": "28.16",
+      "unitPrice": 26.812,
+      "earnings": 0
+    },
+    "sh601198": {
+      "name": "东兴证券",
+      "amount": 19800,
+      "price": "11.60",
+      "unitPrice": 12.312,
+      "earnings": 0
+    },
+    "sh601939": {
+      "name": "建设银行",
+      "amount": 28800,
+      "price": "9.20",
+      "unitPrice": 9.081,
+      "earnings": 0
+    },
+    "sh518800": {
+      "name": "黄金基金ETF",
+      "amount": 0,
+      "price": "7.657",
+      "unitPrice": 0,
+      "earnings": 0
+    },
+    "sh510330": {
+      "name": "沪深300ETF华夏",
+      "amount": 0,
+      "price": "4.519",
+      "unitPrice": 0,
+      "earnings": 0
+    },
+    "sh601857": {
+      "name": "中国石油",
+      "amount": 8000,
+      "price": "8.99",
+      "unitPrice": 7.764,
+      "earnings": 0
+    },
+    "hk01810": {
+      "name": "小米集团-W",
+      "amount": 0,
+      "price": "53.45",
+      "unitPrice": 0,
+      "earnings": 0
+    },
+    "hk01398": {
+      "name": "工商银行",
+      "amount": 0,
+      "price": "5.73",
+      "unitPrice": 0,
+      "earnings": 0
+    }
+  },
+  "leek-fund.stockHeldTipShow": false,
+  "leek-fund.funds": [
+    [
+      "510300",
+      "518880",
+      "161226"
+    ],
+    [
+      "518880"
+    ]
+  ],
+  "leek-fund.fundGroups": [
+    "Base",
+    "Main"
+  ],
+  "leek-fund.binance": [
+    "BTC_USDT",
+    "ETH_USDT",
+    "EOS_USDT"
+  ],
+  "leek-fund.stocksRemind": {},
+  "leek-fund.statusBarStock": [],
+  "leek-fund.interval": 5000,
+  "leek-fund.riseColor": "#888888",
+  "leek-fund.fallColor": "black",
+  "leek-fund.hideFundBarItem": false,
+  "leek-fund.hideStatusBarStock": true,
+  "leek-fund.hideStatusBar": false,
+  "leek-fund.newsUserIds": [
+    "5124430882",
+    "1287305957",
+    "1632326933"
+  ],
+  "leek-fund.xueqiuCookie": "",
+  "leek-fund.fundAmount": {},
+  "leek-fund.showEarnings": 1,
+  "leek-fund.iconType": "food1",
+  "leek-fund.fundSort": 0,
+  "leek-fund.stockSort": 0,
+  "leek-fund.stockRemindSwitch": 1,
+  "leek-fund.stockKLineChartSwitch": 1,
+  "leek-fund.labelFormat": {
+    "statusBarLabelFormat": "「${name}」${price}  ${icon}（${percent}）",
+    "sidebarStockLabelFormat": "${icon|padRight|4}${percent|padRight|11}${price|padRight|15}「${name}」",
+    "sidebarFundLabelFormat": "${icon|padRight|4}${percent|padRight}「${name}」${earnings} ${time}"
+  },
+  "leek-fund.immersiveBackground": true,
+  "leek-fund.flash-news": false,
+  "leek-fund.expandAStock": true,
+  "leek-fund.expandHKStock": false,
+  "leek-fund.expandUSStock": false,
+  "leek-fund.expandCNFuture": false,
+  "leek-fund.expandOverseaFuture": false
+}
