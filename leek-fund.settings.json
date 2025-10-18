@@ -1,6 +1,10 @@
 {
   "leek-fund.stocks": [
-    "nf_AG2512",
+    "usr_tigr",
+    "nf_AG2604",
+    "usr_li",
+    "sh000001",
+    "nf_AG2601",
     "sh601198",
     "sh600887",
     "sh601398",
@@ -13,75 +17,163 @@
     "hf_CHA50CFD",
     "hk01810",
     "hk01398",
-    "sh000001",
+    "sh601816",
+    "nf_AG2512",
+    "nf_AU2512",
+    "hk00939",
+    "nf_AU2608",
+    "sz001965",
+    "sh600030",
+    "sh603099",
     "sh518800",
     "sh510330",
-    "sz161226",
-    "nf_AG2604",
-    "nf_AU2512",
-    "nf_AU2608"
+    "sh600900"
   ],
   "leek-fund.stockPrice": {
-    "sh601398": {
-      "name": "工商银行",
-      "amount": 23600,
-      "price": "7.54",
-      "unitPrice": 7.283,
-      "earnings": 0
-    },
-    "sh600887": {
-      "name": "伊利股份",
-      "amount": 4200,
-      "price": "28.16",
-      "unitPrice": 26.812,
+    "nf_AG2512": {
+      "name": "白银2512",
+      "amount": 0,
+      "price": "9794",
+      "unitPrice": 0,
       "earnings": 0
     },
     "sh601198": {
       "name": "东兴证券",
       "amount": 19800,
-      "price": "11.60",
+      "price": "11.61",
       "unitPrice": 12.312,
+      "earnings": 0
+    },
+    "sh600887": {
+      "name": "伊利股份",
+      "amount": 4200,
+      "price": "28.43",
+      "unitPrice": 26.812,
+      "earnings": 0
+    },
+    "sh601398": {
+      "name": "工商银行",
+      "amount": 23600,
+      "price": "7.47",
+      "unitPrice": 7.283,
       "earnings": 0
     },
     "sh601939": {
       "name": "建设银行",
       "amount": 28800,
-      "price": "9.20",
+      "price": "9.15",
       "unitPrice": 9.081,
-      "earnings": 0
-    },
-    "sh518800": {
-      "name": "黄金基金ETF",
-      "amount": 0,
-      "price": "7.657",
-      "unitPrice": 0,
-      "earnings": 0
-    },
-    "sh510330": {
-      "name": "沪深300ETF华夏",
-      "amount": 0,
-      "price": "4.519",
-      "unitPrice": 0,
       "earnings": 0
     },
     "sh601857": {
       "name": "中国石油",
       "amount": 8000,
-      "price": "8.99",
+      "price": "8.76",
       "unitPrice": 7.764,
+      "earnings": 0
+    },
+    "sh510330": {
+      "name": "沪深300ETF华夏",
+      "amount": 0,
+      "price": "4.606",
+      "unitPrice": 0,
+      "earnings": 0
+    },
+    "sh601788": {
+      "name": "光大证券",
+      "amount": 0,
+      "price": "19.14",
+      "unitPrice": 0,
+      "earnings": 0
+    },
+    "sh600958": {
+      "name": "东方证券",
+      "amount": 0,
+      "price": "10.86",
+      "unitPrice": 0,
+      "earnings": 0
+    },
+    "nf_AG2601": {
+      "name": "白银2601",
+      "amount": 0,
+      "price": "9804",
+      "unitPrice": 0,
+      "earnings": 0
+    },
+    "nf_AG2604": {
+      "name": "白银2604",
+      "amount": 0,
+      "price": "9840",
+      "unitPrice": 0,
+      "earnings": 0
+    },
+    "nf_AU2512": {
+      "name": "黄金2512",
+      "amount": 0,
+      "price": "835.82",
+      "unitPrice": 0,
+      "earnings": 0
+    },
+    "nf_AU2608": {
+      "name": "黄金2608",
+      "amount": 0,
+      "price": "845.50",
+      "unitPrice": 0,
+      "earnings": 0
+    },
+    "sh518800": {
+      "name": "黄金基金ETF",
+      "amount": 0,
+      "price": "7.854",
+      "unitPrice": 0,
+      "earnings": 0
+    },
+    "sh601816": {
+      "name": "京沪高铁",
+      "amount": 0,
+      "price": "5.30",
+      "unitPrice": 0,
+      "earnings": 0
+    },
+    "sz001965": {
+      "name": "招商公路",
+      "amount": 0,
+      "price": "10.11",
+      "unitPrice": 0,
+      "earnings": 0
+    },
+    "sz000429": {
+      "name": "粤高速Ａ",
+      "amount": 0,
+      "price": "11.42",
+      "unitPrice": 0,
+      "earnings": 0
+    },
+    "sh600030": {
+      "name": "中信证券",
+      "amount": 0,
+      "price": "29.48",
+      "unitPrice": 0,
       "earnings": 0
     },
     "hk01810": {
       "name": "小米集团-W",
       "amount": 0,
-      "price": "53.45",
+      "price": "54.95",
       "unitPrice": 0,
       "earnings": 0
     },
     "hk01398": {
       "name": "工商银行",
       "amount": 0,
-      "price": "5.73",
+      "price": "6.00",
+      "unitPrice": 0,
+      "earnings": 0
+    },
+    "hk00939": {
+      "name": "建设银行",
+      "amount": 0,
+      "price": "7.97",
       "unitPrice": 0,
       "earnings": 0
     }
@@ -117,7 +209,13 @@
   "leek-fund.newsUserIds": [
     "5124430882",
     "1287305957",
-    "1632326933"
+    "1632326933",
+    "3350642636",
+    "1247347556",
+    "1821992043",
+    "1929796343",
+    "2884313460",
+    "3045778209"
   ],
   "leek-fund.xueqiuCookie": "",
   "leek-fund.fundAmount": {},
@@ -126,14 +224,14 @@
   "leek-fund.fundSort": 0,
   "leek-fund.stockSort": 0,
   "leek-fund.stockRemindSwitch": 1,
-  "leek-fund.stockKLineChartSwitch": 1,
+  "leek-fund.stockKLineChartSwitch": 0,
   "leek-fund.labelFormat": {
     "statusBarLabelFormat": "「${name}」${price}  ${icon}（${percent}）",
     "sidebarStockLabelFormat": "${icon|padRight|4}${percent|padRight|11}${price|padRight|15}「${name}」",
     "sidebarFundLabelFormat": "${icon|padRight|4}${percent|padRight}「${name}」${earnings} ${time}"
   },
   "leek-fund.immersiveBackground": true,
-  "leek-fund.flash-news": false,
+  "leek-fund.flash-news": true,
   "leek-fund.expandAStock": true,
   "leek-fund.expandHKStock": false,
   "leek-fund.expandUSStock": false,
