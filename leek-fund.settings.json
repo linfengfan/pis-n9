@@ -1,10 +1,9 @@
 {
   "leek-fund.stocks": [
-    "usr_tigr",
-    "nf_AG2604",
-    "usr_li",
     "sh000001",
-    "nf_AG2601",
+    "usr_tigr",
+    "usr_li",
+    "sh600030",
     "sh601198",
     "sh600887",
     "sh601398",
@@ -18,121 +17,105 @@
     "hk01810",
     "hk01398",
     "sh601816",
-    "nf_AG2512",
-    "nf_AU2512",
     "hk00939",
-    "nf_AU2608",
     "sz001965",
-    "sh600030",
-    "sh603099",
     "sh518800",
-    "sh510330",
-    "sh600900"
+    "sh600900",
+    "usr_agq",
+    "sh600150",
+    "sh600685",
+    "hk00317",
+    "sh601788",
+    "sh600482",
+    "sh600958",
+    "sh510300",
+    "sh601006",
+    "sh601985",
+    "hk03958",
+    "nf_AG2512",
+    "nf_AG2604",
+    "nf_AU2512"
   ],
   "leek-fund.stockPrice": {
-    "nf_AG2512": {
-      "name": "白银2512",
+    "usr_tigr": {
+      "name": "老虎证券",
       "amount": 0,
-      "price": "9794",
+      "price": "10.01",
       "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "usr_li": {
+      "name": "理想汽车",
+      "amount": 0,
+      "price": "19.93",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh600030": {
+      "name": "中信证券",
+      "amount": 600,
+      "price": "28.64",
+      "unitPrice": 28.528,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
       "earnings": 0
     },
     "sh601198": {
       "name": "东兴证券",
-      "amount": 19800,
-      "price": "11.61",
-      "unitPrice": 12.312,
+      "amount": 21880,
+      "price": "12.94",
+      "unitPrice": 12.191,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
       "earnings": 0
     },
     "sh600887": {
       "name": "伊利股份",
       "amount": 4200,
-      "price": "28.43",
+      "price": "28.35",
       "unitPrice": 26.812,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
       "earnings": 0
     },
     "sh601398": {
       "name": "工商银行",
-      "amount": 23600,
-      "price": "7.47",
-      "unitPrice": 7.283,
+      "amount": 0,
+      "price": "8.25",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
       "earnings": 0
     },
     "sh601939": {
       "name": "建设银行",
-      "amount": 28800,
-      "price": "9.15",
-      "unitPrice": 9.081,
+      "amount": 29000,
+      "price": "9.56",
+      "unitPrice": 9.078,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
       "earnings": 0
     },
     "sh601857": {
       "name": "中国石油",
-      "amount": 8000,
-      "price": "8.76",
-      "unitPrice": 7.764,
-      "earnings": 0
-    },
-    "sh510330": {
-      "name": "沪深300ETF华夏",
-      "amount": 0,
-      "price": "4.606",
-      "unitPrice": 0,
-      "earnings": 0
-    },
-    "sh601788": {
-      "name": "光大证券",
-      "amount": 0,
-      "price": "19.14",
-      "unitPrice": 0,
-      "earnings": 0
-    },
-    "sh600958": {
-      "name": "东方证券",
-      "amount": 0,
-      "price": "10.86",
-      "unitPrice": 0,
-      "earnings": 0
-    },
-    "nf_AG2601": {
-      "name": "白银2601",
-      "amount": 0,
-      "price": "9804",
-      "unitPrice": 0,
-      "earnings": 0
-    },
-    "nf_AG2604": {
-      "name": "白银2604",
-      "amount": 0,
-      "price": "9840",
-      "unitPrice": 0,
-      "earnings": 0
-    },
-    "nf_AU2512": {
-      "name": "黄金2512",
-      "amount": 0,
-      "price": "835.82",
-      "unitPrice": 0,
-      "earnings": 0
-    },
-    "nf_AU2608": {
-      "name": "黄金2608",
-      "amount": 0,
-      "price": "845.50",
-      "unitPrice": 0,
-      "earnings": 0
-    },
-    "sh518800": {
-      "name": "黄金基金ETF",
-      "amount": 0,
-      "price": "7.854",
-      "unitPrice": 0,
+      "amount": 8200,
+      "price": "9.82",
+      "unitPrice": 7.756,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
       "earnings": 0
     },
     "sh601816": {
       "name": "京沪高铁",
       "amount": 0,
-      "price": "5.30",
+      "price": "5.24",
       "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
       "earnings": 0
     },
     "sz001965": {
@@ -140,41 +123,179 @@
       "amount": 0,
       "price": "10.11",
       "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
       "earnings": 0
     },
-    "sz000429": {
-      "name": "粤高速Ａ",
+    "sh518800": {
+      "name": "黄金基金ETF",
       "amount": 0,
-      "price": "11.42",
+      "price": "8.988",
       "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
       "earnings": 0
     },
-    "sh600030": {
-      "name": "中信证券",
+    "sh600900": {
+      "name": "长江电力",
       "amount": 0,
-      "price": "29.48",
+      "price": "28.34",
       "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "usr_agq": {
+      "name": "白银ETF-ProShares两倍做多",
+      "amount": 0,
+      "price": "92.37",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh600150": {
+      "name": "中国船舶",
+      "amount": 0,
+      "price": "34.31",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh600685": {
+      "name": "中船防务",
+      "amount": 0,
+      "price": "26.14",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh601788": {
+      "name": "光大证券",
+      "amount": 0,
+      "price": "18.20",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh600482": {
+      "name": "中国动力",
+      "amount": 200,
+      "price": "20.52",
+      "unitPrice": 22.05,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh600958": {
+      "name": "东方证券",
+      "amount": 0,
+      "price": "10.68",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh510300": {
+      "name": "沪深300ETF",
+      "amount": 0,
+      "price": "4.741",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh601006": {
+      "name": "大秦铁路",
+      "amount": 0,
+      "price": "5.71",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh601985": {
+      "name": "中国核电",
+      "amount": 0,
+      "price": "8.91",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "nf_AG2512": {
+      "name": "白银2512",
+      "amount": 0,
+      "price": "12416",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "nf_AG2604": {
+      "name": "白银2604",
+      "amount": 1,
+      "price": "12457",
+      "unitPrice": 11917,
+      "todayUnitPrice": 11917,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "nf_AU2512": {
+      "name": "黄金2512",
+      "amount": 0,
+      "price": "959.12",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
       "earnings": 0
     },
     "hk01810": {
       "name": "小米集团-W",
-      "amount": 0,
-      "price": "54.95",
-      "unitPrice": 0,
+      "amount": 800,
+      "price": "42.36",
+      "unitPrice": 53.088,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
       "earnings": 0
     },
     "hk01398": {
       "name": "工商银行",
-      "amount": 0,
-      "price": "6.00",
-      "unitPrice": 0,
+      "amount": 2000,
+      "price": "6.57",
+      "unitPrice": 5.584,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
       "earnings": 0
     },
     "hk00939": {
       "name": "建设银行",
       "amount": 0,
-      "price": "7.97",
+      "price": "8.35",
       "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "hk00317": {
+      "name": "中船防务",
+      "amount": 0,
+      "price": "13.99",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "hk03958": {
+      "name": "东方证券",
+      "amount": 200,
+      "price": "7.11",
+      "unitPrice": 10.905,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
       "earnings": 0
     }
   },
@@ -231,7 +352,7 @@
     "sidebarFundLabelFormat": "${icon|padRight|4}${percent|padRight}「${name}」${earnings} ${time}"
   },
   "leek-fund.immersiveBackground": true,
-  "leek-fund.flash-news": true,
+  "leek-fund.flash-news": false,
   "leek-fund.expandAStock": true,
   "leek-fund.expandHKStock": false,
   "leek-fund.expandUSStock": false,
