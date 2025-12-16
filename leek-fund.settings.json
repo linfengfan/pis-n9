@@ -26,7 +26,11 @@
     "hk03958",
     "nf_AG2512",
     "nf_AG2604",
-    "nf_AU2512"
+    "nf_AU2512",
+    "sz000858",
+    "hk00939",
+    "sz002716",
+    "hk00815"
   ],
   "leek-fund.stockPrice": {
     "usr_tigr": {
@@ -263,6 +267,7 @@
   "leek-fund.showEarnings": 1,
   "leek-fund.iconType": "food1",
   "leek-fund.fundSort": 0,
+  "leek-fund.fundAmountSort": "default",
   "leek-fund.stockSort": 0,
   "leek-fund.stockRemindSwitch": 1,
   "leek-fund.stockKLineChartSwitch": 0,
