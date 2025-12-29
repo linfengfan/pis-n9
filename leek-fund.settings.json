@@ -1,9 +1,10 @@
 {
   "leek-fund.stocks": [
     "sh000001",
+    "sh601995",
     "usr_tigr",
-    "sh600030",
     "sh601198",
+    "sh600030",
     "sh600887",
     "sh601939",
     "sh601857",
@@ -24,16 +25,20 @@
     "sh601006",
     "sh601985",
     "hk03958",
-    "nf_AG2512",
-    "nf_AG2604",
-    "nf_AU2512",
+    "nf_AG2602",
     "sz000858",
     "hk00939",
     "sz002716",
     "hk00815",
-    "sh601995",
     "hk03908",
-    "sh601059"
+    "sh601059",
+    "sh600862",
+    "hk01816",
+    "sz001965",
+    "nf_AG2604",
+    "nf_AG2606",
+    "hk00728",
+    "sh601728"
   ],
   "leek-fund.stockPrice": {
     "usr_tigr": {
@@ -290,6 +295,7 @@
   "leek-fund.hideFundBarItem": false,
   "leek-fund.hideStatusBarStock": true,
   "leek-fund.hideStatusBar": false,
+  "leek-fund.hideStatusBarIcon": false,
   "leek-fund.newsUserIds": [
     "5124430882",
     "1287305957",
@@ -321,5 +327,11 @@
   "leek-fund.expandHKStock": false,
   "leek-fund.expandUSStock": false,
   "leek-fund.expandCNFuture": false,
-  "leek-fund.expandOverseaFuture": false
+  "leek-fund.expandOverseaFuture": false,
+  "leek-fund.aiConfig": {
+    "apiKey": "",
+    "baseUrl": "",
+    "model": ""
+  },
+  "leek-fund.aiStockHistoryRange": "1w"
 }
