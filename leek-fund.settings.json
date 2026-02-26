@@ -37,148 +37,24 @@
     "nf_AG2606",
     "sz002716",
     "nf_AU2602",
-    "hk06178"
+    "hk06178",
+    "sh601899",
+    "hk06030"
   ],
   "leek-fund.stockPrice": {
-    "usr_tigr": {
-      "name": "老虎证券",
-      "amount": 8,
-      "price": "9.210",
-      "unitPrice": 10.0038,
-      "todayUnitPrice": 0,
-      "isSellOut": false,
-      "earnings": 0
-    },
-    "sh600030": {
-      "name": "中信证券",
-      "amount": 1500,
-      "price": "28.29",
-      "unitPrice": 28.087,
-      "todayUnitPrice": 0,
-      "isSellOut": false,
-      "earnings": 0
-    },
-    "sh601198": {
-      "name": "东兴证券",
-      "amount": 17100,
-      "price": "13.13",
-      "unitPrice": 12.033,
-      "todayUnitPrice": 0,
-      "isSellOut": false,
-      "earnings": 0
-    },
-    "sh600887": {
-      "name": "伊利股份",
-      "amount": 4100,
-      "price": "28.39",
-      "unitPrice": 26.751,
-      "todayUnitPrice": 0,
-      "isSellOut": false,
-      "earnings": 0
-    },
-    "sh601939": {
-      "name": "建设银行",
-      "amount": 28200,
-      "price": "8.94",
-      "unitPrice": 8.86,
-      "todayUnitPrice": 0,
-      "isSellOut": false,
-      "earnings": 0
-    },
-    "sh601857": {
-      "name": "中国石油",
-      "amount": 8200,
-      "price": "9.66",
-      "unitPrice": 7.756,
-      "todayUnitPrice": 0,
-      "isSellOut": false,
-      "earnings": 0
-    },
-    "sh601816": {
-      "name": "京沪高铁",
-      "amount": 500,
-      "price": "5.13",
-      "unitPrice": 5.085,
-      "todayUnitPrice": 0,
-      "isSellOut": false,
-      "earnings": 0
-    },
-    "sh518800": {
-      "name": "黄金基金ETF",
+    "hf_XAG": {
+      "name": "伦敦银（现货白银）",
       "amount": 0,
-      "price": "8.997",
+      "price": "89.08",
       "unitPrice": 0,
       "todayUnitPrice": 0,
       "isSellOut": false,
       "earnings": 0
     },
-    "sh600900": {
-      "name": "长江电力",
+    "hf_XAU": {
+      "name": "伦敦金（现货黄金）",
       "amount": 0,
-      "price": "27.86",
-      "unitPrice": 0,
-      "todayUnitPrice": 0,
-      "isSellOut": false,
-      "earnings": 0
-    },
-    "sh601788": {
-      "name": "光大证券",
-      "amount": 1000,
-      "price": "17.46",
-      "unitPrice": 18.565,
-      "todayUnitPrice": 0,
-      "isSellOut": false,
-      "earnings": 0
-    },
-    "sh600482": {
-      "name": "中国动力",
-      "amount": 400,
-      "price": "20.15",
-      "unitPrice": 21.275,
-      "todayUnitPrice": 0,
-      "isSellOut": false,
-      "earnings": 0
-    },
-    "sh600958": {
-      "name": "东方证券",
-      "amount": 1600,
-      "price": "10.60",
-      "unitPrice": 10.509,
-      "todayUnitPrice": 0,
-      "isSellOut": false,
-      "earnings": 0
-    },
-    "sh510300": {
-      "name": "沪深300ETF",
-      "amount": 2400,
-      "price": "4.668",
-      "unitPrice": 4.753,
-      "todayUnitPrice": 0,
-      "isSellOut": false,
-      "earnings": 0
-    },
-    "sh601006": {
-      "name": "大秦铁路",
-      "amount": 4400,
-      "price": "5.44",
-      "unitPrice": 5.983,
-      "todayUnitPrice": 0,
-      "isSellOut": false,
-      "earnings": 0
-    },
-    "sh601985": {
-      "name": "中国核电",
-      "amount": 1800,
-      "price": "8.70",
-      "unitPrice": 9.185,
-      "todayUnitPrice": 0,
-      "isSellOut": false,
-      "earnings": 0
-    },
-    "nf_AG2512": {
-      "name": "白银2512",
-      "amount": 0,
-      "price": "14366",
+      "price": "5163.86",
       "unitPrice": 0,
       "todayUnitPrice": 0,
       "isSellOut": false,
@@ -187,17 +63,134 @@
     "nf_AG2604": {
       "name": "白银2604",
       "amount": 0,
-      "price": "14358",
+      "price": "22467",
       "unitPrice": 0,
       "todayUnitPrice": 0,
       "isSellOut": false,
       "earnings": 0
     },
-    "nf_AU2512": {
-      "name": "黄金2512",
+    "sh601995": {
+      "name": "中金公司",
       "amount": 0,
-      "price": "956.54",
+      "price": "34.96",
       "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh601198": {
+      "name": "东兴证券",
+      "amount": 18500,
+      "price": "14.20",
+      "unitPrice": 12.174,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh600030": {
+      "name": "中信证券",
+      "amount": 3300,
+      "price": "27.74",
+      "unitPrice": 27.38,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh601059": {
+      "name": "信达证券",
+      "amount": 0,
+      "price": "17.80",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh601788": {
+      "name": "光大证券",
+      "amount": 6500,
+      "price": "16.66",
+      "unitPrice": 17.13,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "usr_tigr": {
+      "name": "老虎证券",
+      "amount": 8,
+      "price": "8.100",
+      "unitPrice": 10.0038,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh601939": {
+      "name": "建设银行",
+      "amount": 28700,
+      "price": "8.65",
+      "unitPrice": 8.858,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh601857": {
+      "name": "中国石油",
+      "amount": 8200,
+      "price": "10.99",
+      "unitPrice": 7.756,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh600887": {
+      "name": "伊利股份",
+      "amount": 0,
+      "price": "26.30",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh601816": {
+      "name": "京沪高铁",
+      "amount": 0,
+      "price": "4.91",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh601006": {
+      "name": "大秦铁路",
+      "amount": 0,
+      "price": "5.09",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh518800": {
+      "name": "黄金ETF国泰",
+      "amount": 0,
+      "price": "10.822",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh600900": {
+      "name": "长江电力",
+      "amount": 800,
+      "price": "25.97",
+      "unitPrice": 26.317,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh601985": {
+      "name": "中国核电",
+      "amount": 4000,
+      "price": "8.49",
+      "unitPrice": 8.875,
       "todayUnitPrice": 0,
       "isSellOut": false,
       "earnings": 0
@@ -205,7 +198,61 @@
     "sz000858": {
       "name": "五 粮 液",
       "amount": 0,
-      "price": "111.90",
+      "price": "105.17",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "nf_AG2605": {
+      "name": "白银2605",
+      "amount": 0,
+      "price": "22320",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh600482": {
+      "name": "中国动力",
+      "amount": 0,
+      "price": "33.42",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh600862": {
+      "name": "中航高科",
+      "amount": 0,
+      "price": "26.70",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh601728": {
+      "name": "中国电信",
+      "amount": 0,
+      "price": "5.73",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sz001965": {
+      "name": "招商公路",
+      "amount": 0,
+      "price": "9.63",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "nf_AG2606": {
+      "name": "白银2606",
+      "amount": 0,
+      "price": "22269",
       "unitPrice": 0,
       "todayUnitPrice": 0,
       "isSellOut": false,
@@ -213,9 +260,36 @@
     },
     "sz002716": {
       "name": "湖南白银",
-      "amount": 1100,
-      "price": "6.28",
-      "unitPrice": 6.543,
+      "amount": 0,
+      "price": "15.87",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "nf_AU2602": {
+      "name": "黄金2602",
+      "amount": 0,
+      "price": "1102.76",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh601899": {
+      "name": "紫金矿业",
+      "amount": 0,
+      "price": "39.63",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "hk00728": {
+      "name": "中国电信",
+      "amount": 2000,
+      "price": "4.99",
+      "unitPrice": 5.4,
       "todayUnitPrice": 0,
       "isSellOut": false,
       "earnings": 0
@@ -223,7 +297,7 @@
     "hk01810": {
       "name": "小米集团-W",
       "amount": 1000,
-      "price": "42.18",
+      "price": "35.60",
       "unitPrice": 50.47,
       "todayUnitPrice": 0,
       "isSellOut": false,
@@ -232,17 +306,8 @@
     "hk01398": {
       "name": "工商银行",
       "amount": 2000,
-      "price": "6.11",
+      "price": "6.46",
       "unitPrice": 5.584,
-      "todayUnitPrice": 0,
-      "isSellOut": false,
-      "earnings": 0
-    },
-    "hk03958": {
-      "name": "东方证券",
-      "amount": 200,
-      "price": "6.67",
-      "unitPrice": 6.87,
       "todayUnitPrice": 0,
       "isSellOut": false,
       "earnings": 0
@@ -250,17 +315,26 @@
     "hk00939": {
       "name": "建设银行",
       "amount": 0,
-      "price": "7.58",
+      "price": "8.13",
       "unitPrice": 0,
       "todayUnitPrice": 0,
       "isSellOut": false,
       "earnings": 0
     },
-    "hk00815": {
-      "name": "中国白银集团",
+    "hk03908": {
+      "name": "中金公司",
       "amount": 0,
-      "price": "0.69",
+      "price": "21.18",
       "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "hk06178": {
+      "name": "光大证券",
+      "amount": 200,
+      "price": "8.89",
+      "unitPrice": 8.9,
       "todayUnitPrice": 0,
       "isSellOut": false,
       "earnings": 0
